@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kaiagaoqy.github.io/test_repo/sitemap.xml
+Sitemap: https://kaiagaoqy.github.io/test_repo//sitemap.xml
